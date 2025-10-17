@@ -1,0 +1,18 @@
+
+    =============================================
+    EMAIL DE CONFIRMATION TALKSPACE (SIMULATION)
+    =============================================
+    
+    Bonjour Débora DEGUENON,
+    
+    Merci de vous être inscrit sur TalkSpace. 
+    Pour activer votre compte, cliquez sur le lien suivant :
+    
+    http://localhost/cv/confirmer_email.php?token=cacaa0a74b8004c35d2d693a0bf2768ddaee4524d1158f32b54c37c19c6bcf4a
+    
+    Ce lien expirera dans 24 heures.
+    
+    Si vous n'avez pas créé de compte, ignorez cet email.
+    
+    © 2024 TalkSpace
+    

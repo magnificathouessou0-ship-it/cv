@@ -1,0 +1,18 @@
+
+    =============================================
+    EMAIL DE CONFIRMATION TALKSPACE (SIMULATION)
+    =============================================
+    
+    Bonjour Francisca DEGUENON,
+    
+    Merci de vous être inscrit sur TalkSpace. 
+    Pour activer votre compte, cliquez sur le lien suivant :
+    
+    http://localhost/cv/confirmer_email.php?token=4fd0818e7087f63533e02096f54288ae283b28cfb89ca72e8141f5534c7ca1a2
+    
+    Ce lien expirera dans 24 heures.
+    
+    Si vous n'avez pas créé de compte, ignorez cet email.
+    
+    © 2024 TalkSpace
+    
